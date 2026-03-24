@@ -1,5 +1,5 @@
-// Customer Data Hashes
-const UserDataHashes = [ 
+// Customer Data
+const UserData = [ 
   '6161b0a284159565a0f7d5df2dd2698b5f87906cd91ff5322caf179b451f5a41',
   'a3577b803a216a39c17d94541d6054bbe72fd11da8832e7b28d91277a2588048',
   'fa67227d57c24b18797725aed52f283df8ddb3c94c6f5008f313055d28166756',
@@ -13,5 +13,6 @@ const UserDataHashes = [
   '89229d777f25b34adfb6752b54d9c0b6a626d48055858f0b7c4fe5ac44939d9a',
   '794f3281665ae17d836635c5b3b7439621d4b6ccd26df4baacf71c12bbbb4aba',
   'e295784aab77691b310b3b3fd0fb9e5686fa8a6befc46b6fa697f46d22f88543',
-  '0cbf334aa4305120ba9db3c67fa4ffc6dbdae1db8d92bc4ea5ae46679cbcf99'
+  '0cbf334aa4305120ba9db3c67fa4ffc6dbdae1db8d92bc4ea5ae46679cbcf99',
+  '0cbf334aa4305120ba9db3c67fa4ffc6dbdae1db8d92bc4ea5ae46679c6bcf99'
 ];
